@@ -1,0 +1,28 @@
+h1 { 
+    color:rgb(61, 2, 32);
+    font-size: 35px;
+    font-style:normal ;
+    text-align:center;
+    text-decoration:underline;
+    font-family: 'caprasimo', cursive;
+    letter-spacing: 2px;
+    border-left: brown;
+    
+ }
+
+ label { 
+    color:rgb(247, 247, 247);
+    font-size: 20px;
+    
+    
+ }
+
+  body { 
+    background: linear-gradient(rgb(209, 24, 80),rgb(136, 8, 78) , rgb(10, 10, 102) )
+
+ }
+
+  input { 
+    border-radius:10px;
+    
+ }
